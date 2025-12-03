@@ -36,7 +36,7 @@ UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.from
 UIGradient.Parent = Frame
 
 TextButton.Parent = Frame
-TextButton.BackgroundColor3 = Color3.fromRGB(39, 28, 9)
+TextButton.BackgroundColor3 = Color3.fromRGB(143, 112, 33)
 TextButton.BackgroundTransparency = 0.500
 TextButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton.BorderSizePixel = 0
