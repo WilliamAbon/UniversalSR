@@ -32,11 +32,11 @@ Frame.BorderSizePixel = 0
 Frame.Position = UDim2.new(0.5, 0, 0.47551021, 0)
 Frame.Size = UDim2.new(0, 142, 0, 54)
 
-UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(9, 2, 5)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(10, 24, 39))}
+UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(9, 2, 5)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(39, 28, 9))}
 UIGradient.Parent = Frame
 
 TextButton.Parent = Frame
-TextButton.BackgroundColor3 = Color3.fromRGB(32, 104, 143)
+TextButton.BackgroundColor3 = Color3.fromRGB(39, 28, 9)
 TextButton.BackgroundTransparency = 0.500
 TextButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton.BorderSizePixel = 0
@@ -77,7 +77,7 @@ LoadingU.BorderSizePixel = 0
 LoadingU.Position = UDim2.new(-0.0379999317, 0, 0, 0)
 LoadingU.Size = UDim2.new(1.07587874, 0, 1.10204077, 0)
 
-UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(9, 2, 5)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(10, 24, 39))}
+UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(9, 2, 5)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(39, 28, 9))}
 UIGradient_2.Parent = LoadingU
 
 TextLabel_2.Parent = LoadingU
